@@ -1,0 +1,35 @@
+tittle- название сайта
+hr-линия
+img картинка
+width- ширина(проценты, желательно()
+size размер(пиксели, просто цифра
+align- центр, бока
+alt- ошибка загрузки картинки
+<big><big>ТЕКСТ</big></big> -большой текст
+
+в бади
+
+    <!-- <h1 align="center" >EyWip</h1>
+    <h2 align="center" >Столповский         Гордей</h2>
+    <hr width="50%" size="2">
+    <a  href="https://youtu.be/wwRjGMvdvdM"> <p> Советуем посмотреть новое видео нажав сюда! </p> </a>
+    <h3 align="center" >Нажав на картинку вы перейдёте на канал</h3>
+    <a  href="https://www.youtube.com/channel/UCAzCcGqBHWPr9ca56aIxijg"><img src = "asset/я.jpg" style="position:absolute;left:910px;right:100px" width=100 height=100></a> -->
+
+header, footer{
+    height: 100px;
+    }
+    header{
+        background: crimson;
+    }
+
+    #page{
+        width: 10%;
+        margin: 5px 0;
+        background: url(оав.jpg);    
+    }
+    #skills{
+    width: 20%;    
+    margin: 5px 0;
+    background: chartreuse;
+    }

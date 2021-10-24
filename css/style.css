@@ -1,0 +1,14 @@
+header{
+
+}
+footer{
+    background: rgb(255, 125, 0);
+}
+#skills{
+    background: rgb(40, 40, 40);
+}
+#page{
+    width: 10%;
+    margin: 5px 0;
+    background: url(оав.jpg);
+}
